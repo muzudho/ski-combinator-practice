@@ -14,7 +14,7 @@
 
 📖 [ski-combinator-practice](https://github.com/muzudho/ski-combinator-practice)  
 
-# 英語を勉強しよう
+# 英語を勉強しよう。 1 The Flower Garden
 
 ```plaintext
 In a certain 場所〇〇.
@@ -113,5 +113,89 @@ two logic students
 
 2人の論理学生
 ```
+
+# [📅2024-02-03 sat]
+
+```plaintext
+got into an argument
+
+口論になった
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　👆　これ、口論なのか、直訳きかないぜ」  
+
+```plaintext
+It therefore follows
+
+したがって、次のようになります
+```
+
+```plaintext
+doesn't it?
+
+そうじゃないですか？
+```
+
+```plaintext
+Of course not!
+
+もちろん違います！
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　👆　文章の全体が　分かってきたぜ」  
+
+```plaintext
+Which dog was right, and Why?
+
+どの犬が正しかったのか、そしてその理由は何ですか?
+
+Which cat was right, and Why?
+
+どの猫が正しかったのか、そしてその理由は何ですか?
+```
+
+![kifuwarabe-futsu.png](https://crieit.now.sh/upload_images/beaf94b260ae2602ca8cf7f5bbc769c261daf8686dbda.png)  
+「　どっちの学生が正しいんだぜ？」  
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　前者の学生が正しいんじゃないかなあ？　残りの色だし」  
+
+![ohkina-hiyoko-futsu2.png](https://crieit.now.sh/upload_images/96fb09724c3ce40ee0861a0fd1da563d61daf8a09d9bc.png)  
+「　答えを見てみましょう」  
+
+```plaintext
+and here is why.
+
+その理由は次のとおりです。
+```
+
+```plaintext
+there cannot be more than one yellow dog
+
+黄色い犬は複数あってはならない
+```
+
+```plaintext
+there were two dogs
+
+二匹の犬がいました
+```
+
+```plaintext
+you could pick two dogs and one cat
+
+犬2匹と猫1匹を選ぶことができます
+```
+
+```plaintext
+thus having a group of pencils
+
+したがって、鉛筆のグループができました
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　解説が長くて　翻訳が疲れた」  
 
 .
