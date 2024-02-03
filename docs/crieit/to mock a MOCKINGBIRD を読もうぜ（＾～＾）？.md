@@ -196,6 +196,96 @@ thus having a group of pencils
 ```
 
 ![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
-「　解説が長くて　翻訳が疲れた」  
+「　👆　解説が長くて　翻訳が疲れた」  
+
+```plaintext
+This is contrary to the orange box.
+
+これはオレンジ色のボックスとは逆です。
+```
+
+```plaintext
+there cannot be more than one black dog
+
+複数の黒い犬を置くことはできません
+```
+
+```plaintext
+Similarly
+
+同様に
+```
+
+```plaintext
+again have a group of pencils
+
+また鉛筆のグループを持っています
+```
+
+```plaintext
+And so from the first dog
+
+そして最初の犬から
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　👆　はー　つら」  
+
+![kifuwarabe-futsu.png](https://crieit.now.sh/upload_images/beaf94b260ae2602ca8cf7f5bbc769c261daf8686dbda.png)  
+「　１日１問は解き終えないと　一生　読み終わらないぜ？」  
+
+```plaintext
+it follows that there is at most one dog and one cat
+
+つまり、犬と猫は最大でも 1 匹ずつしかいないということになります
+```
+
+```plaintext
+it follows from the report
+
+それは報告書からの結果です
+```
+
+```plaintext
+for if there were two dogs
+
+犬が二匹いたとしたら
+```
+
+```plaintext
+thus obtaining a group of three that contained no pelican
+
+したがって、ペリカンを含まない 3 つのグループが得られます。
+```
+
+```plaintext
+although we have already deduced this from first penguin
+
+これはファーストペンギンからすでに推測されていますが、
+```
+
+```plaintext
+The upshot of all
+
+すべての結果
+```
+
+```plaintext
+dogs in the entire ballpark
+
+球場全体に犬がいる
+```
+
+```plaintext
+And so it is of course true
+
+そしてそれは当然のことです
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　👆　１問目は読んだ。この鳩ノ巣原理みたいに１つずつ埋めていくやつ、これは何原理？」  
+
+![kifuwarabe-futsu.png](https://crieit.now.sh/upload_images/beaf94b260ae2602ca8cf7f5bbc769c261daf8686dbda.png)  
+「　知らね」  
 
 .
