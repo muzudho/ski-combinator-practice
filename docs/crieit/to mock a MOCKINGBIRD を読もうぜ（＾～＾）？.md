@@ -377,5 +377,31 @@ Can you figure out what ramen taste I could have in mind.
 ![ohkina-hiyoko-futsu2.png](https://crieit.now.sh/upload_images/96fb09724c3ce40ee0861a0fd1da563d61daf8a09d9bc.png)  
 「　答えを見てみましょう」  
 
+```plaintext
+Suppose I ask you:
+
+私があなたにこう尋ねたとします。
+```
+
+```plaintext
+you are affirming
+
+あなたは肯定している
+```
+
+```plaintext
+you are denying
+
+あなたは否定しています
+```
+
+```plaintext
+although no was your dog
+
+あなたの犬は違いましたが
+```
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　はー、英語むずかし」  
 
 .
