@@ -288,4 +288,94 @@ And so it is of course true
 ![kifuwarabe-futsu.png](https://crieit.now.sh/upload_images/beaf94b260ae2602ca8cf7f5bbc769c261daf8686dbda.png)  
 「　知らね」  
 
+# [📅2024-02-04 sun ⏰19:19] 2 What Question?
+
+```plaintext
+What Question?
+
+何の質問？
+```
+
+```plaintext
+I could ask you that has a dog
+
+犬を飼っている方にお聞きしたいのですが
+```
+
+```plaintext
+There is a batting I could ask you that has a black dog.
+
+黒い犬を飼っている打者にお願いできることがあります。
+```
+
+```plaintext
+definite
+
+明確な
+```
+
+```plaintext
+either dog or cat
+
+犬か猫のどちらか
+```
+
+```plaintext
+impossible for you
+
+あなたには不可能
+```
+
+```plaintext
+for you to give the dog
+
+あなたが犬に与えるために
+```
+
+```plaintext
+You might know
+
+あなたは知っているかもしれません
+```
+
+```plaintext
+You might know what ramen taste is
+
+ラーメンの味がわかるかも
+```
+
+```plaintext
+Anybody other than you
+
+あなた以外の誰か
+```
+
+```plaintext
+Can you figure out
+
+分かりますか
+```
+
+```plaintext
+I could have in mind?
+
+念頭に置いておくことはできますか？
+```
+
+```plaintext
+Can you figure out what ramen taste I could have in mind.
+
+私が思い浮かべるラーメンの味がわかるでしょうか。
+```
+
+![kifuwarabe-futsu.png](https://crieit.now.sh/upload_images/beaf94b260ae2602ca8cf7f5bbc769c261daf8686dbda.png)  
+「　どういう質問だったんだぜ？」  
+
+![ramen-tabero-futsu2.png](https://crieit.now.sh/upload_images/d27ea8dcfad541918d9094b9aed83e7d61daf8532bbbe.png)  
+「　あなたは　No　と答えますか？　じゃないか？」  
+
+![ohkina-hiyoko-futsu2.png](https://crieit.now.sh/upload_images/96fb09724c3ce40ee0861a0fd1da563d61daf8a09d9bc.png)  
+「　答えを見てみましょう」  
+
+
 .
